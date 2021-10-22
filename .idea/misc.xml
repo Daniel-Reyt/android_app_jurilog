@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.378125" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/activity_avocat_login.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/activity_client_login.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
@@ -11,6 +12,8 @@
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/app_bar_nav.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/content_nav.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/layout/nav_header_nav.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/menu/activity_main_drawer.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/menu/nav.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/danie/Desktop/dossier/JuriLog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1171875" />
       </map>
     </option>
